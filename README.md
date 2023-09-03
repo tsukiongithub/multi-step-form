@@ -4,8 +4,8 @@ my solution for the [Multi-step form challenge on Frontend Mentor](https://www.f
 
 ### Links
 
-- solution: [Add solution URL here](https://your-solution-url.com)
-- live site: [Add live site URL here](https://your-live-site-url.com)
+- solution: [https://www.frontendmentor.io/solutions/multi-step-form-using-react-tailwindcss-and-radix-ui-N4liF8WQiK](https://www.frontendmentor.io/solutions/multi-step-form-using-react-tailwindcss-and-radix-ui-N4liF8WQiK)
+- live site: [https://tsukiongithub.github.io/multi-step-form/](https://tsukiongithub.github.io/multi-step-form/)
 
 ### Built using
 
