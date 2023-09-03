@@ -1,27 +1,20 @@
-# React + TypeScript + Vite
+# Frontend Mentor - Multi-step form solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+my solution for the [Multi-step form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ).
 
-Currently, two official plugins are available:
+### Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- solution: [Add solution URL here](https://your-solution-url.com)
+- live site: [Add live site URL here](https://your-live-site-url.com)
 
-## Expanding the ESLint configuration
+### Built using
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [react](https://react.dev/)
+- [tailwind css](https://tailwindcss.com)
+- [radix ui](https://www.radix-ui.com/primitives)
 
-- Configure the top-level `parserOptions` property like this:
+### Author
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- website - [tsuki](https://tsukiisa.dev)
+- frontend mentor - [@tsukiongithub](https://www.frontendmentor.io/profile/tsukiongithub)
+- twitter - [@tsukiisadev](https://www.twitter.com/tsukiisadev)
