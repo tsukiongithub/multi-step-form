@@ -6,6 +6,7 @@ import {
   FormControl,
   FormLabel,
   FormMessage,
+  FormSubmit,
 } from "@radix-ui/react-form";
 
 import bgSidebarMobile from "./assets/images/bg-sidebar-mobile.svg";
@@ -277,6 +278,7 @@ function App() {
                     <input type="tel" />
                   </FormControl>
                 </FormField>
+                <FormSubmit className="sr-only" />
               </FormRoot>
             ) : currentStep === 2 ? (
               <div className="grid gap-4 desktop:grid-cols-3">
